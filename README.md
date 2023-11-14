@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Finnegan21/product-preview-card-component-main)
-- Live Site URL: (https://main--transcendent-wisp-80ecd9.netlify.app/)
+- Solution URL: [Solution](https://github.com/Finnegan21/product-preview-card-component-main)
+- Live Site URL: [Netlify](https://main--transcendent-wisp-80ecd9.netlify.app/)
 
 ## My process
 
